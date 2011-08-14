@@ -11,7 +11,7 @@ build :
 	ghc --make -O2 Solver
 
 remote_add :
-	remote add origin git@github.com:akiradeveloper/Siritori.git
+	git remote add origin git@github.com:akiradeveloper/Siritori.git
 
 push :
 	git push -u origin master
