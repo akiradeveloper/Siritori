@@ -15,8 +15,8 @@ Out job is to find the longest siritori chain within given list of word.
 The word can be represented by a pair (start, end) and the output can be also a list of [(start, end)].
 Therefore, the function we have to develop is
 
-'''haskell
+```haskell
 solve :: [Word] -> [Word]
-'''
+```
 
 Very simple. Now, let's get going!
